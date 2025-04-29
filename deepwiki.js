@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DeepWiki Button Enhanced
 // @namespace    https://github.com/zhsama/deepwiki.git
-// @version      1.5
+// @version      1.0
 // @description  Adds a DeepWiki button to GitHub repository pages, linking to deepwiki.com/{user}/{repo}. Combines features and optimizes previous scripts.
 // @author       zhsama
 // @match        https://github.com/*/*
@@ -10,6 +10,8 @@
 // @icon         https://deepwiki.com/icon.png?66aaf51e0e68c818
 // @supportURL   https://github.com/zhsama/deepwiki
 // @homepageURL  https://github.com/zhsama/deepwiki
+// @updateURL    https://raw.githubusercontent.com/zhsama/deepwiki/refs/heads/master/deepwiki.js
+// @downloadURL  https://raw.githubusercontent.com/zhsama/deepwiki/refs/heads/master/deepwiki.js
 // ==/UserScript==
 
 (function () {
