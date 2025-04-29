@@ -45,7 +45,7 @@ A packaged browser extension version will be available in the future.
 
 ## Screenshots
 
-![DeepWiki Button on GitHub]()
+![DeepWiki Button on GitHub](https://github-production-user-asset-6210df.s3.amazonaws.com/33454514/438569848-b50282cc-ca66-4c44-b27c-e40050a6cd46.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250429T051125Z&X-Amz-Expires=300&X-Amz-Signature=496d6a0879ae8696712148fe97cce20e06e114f0a6c18071573787892d99f911&X-Amz-SignedHeaders=host)
 
 *Note: Add actual screenshots of the DeepWiki button on GitHub to help users understand how it looks and where it appears.*
 
